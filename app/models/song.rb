@@ -28,4 +28,5 @@ class Song < ActiveRecord::Base
       self.notes << note
     end
   end
+  
 end
